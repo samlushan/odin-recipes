@@ -1,0 +1,16 @@
+/* styles.css */
+
+div {
+  color: white;
+  background-color: black;
+}
+
+p {
+  background-color: lightyellow;
+  color:blue
+}
+
+img {
+  width: 500px;
+  height: auto;
+}
